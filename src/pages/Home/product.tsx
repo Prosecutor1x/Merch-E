@@ -8,9 +8,7 @@ const Products = () => {
 
   return (
     <>
-      <h1 className="pt-10 text-center font-bold text-4xl">
-        Featured Products
-      </h1>
+      
 
       <section className="p-5 grid grid-cols-1 gap-2 sm:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4 2xl:px-20">
         {items.map((item) => {
