@@ -20,3 +20,8 @@ This project was made possible thanks to the following projects.
 ## License
 
 MIT © [Sung M. Kim](https://sung.codes)
+
+
+##ABOUT
+
+This project is a complete Merchandise selling website made using typescript , tailwind css and firebase in React framework
